@@ -1,6 +1,6 @@
 🖥️ Mac_OS
 
-Mac_OS is a macOS-inspired desktop environment built for the browser using React and Vite.
+Mac-OS-CLONE is a macOS-inspired desktop environment built for the browser using React and Vite.
 The project recreates the look and behavior of a desktop operating system by implementing draggable and resizable windows, a structured desktop layout, and modular UI components.
 
 The primary goal of this project is to explore window management, layout handling, and interactive UI design in a modern React application while maintaining clean, scalable architecture.
